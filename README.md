@@ -89,5 +89,17 @@ if __name__ == "__main__":
 
 
 ### Output:
+### OR:
+<img width="1041" height="303" alt="596536355-f6a217d2-d5be-4641-a4eb-b4c066bdc309" src="https://github.com/user-attachments/assets/41c966c4-0d1f-4e97-bc5e-a255048a8084" />
 
-### Result:
+ ###   AND :
+ <img width="1055" height="312" alt="596536997-dcc64fac-b393-4f30-b01b-addb32cd4f97" src="https://github.com/user-attachments/assets/e6be5339-dcaf-4054-81f0-af694d885f90" />
+
+ ### NOT :
+ <img width="1051" height="313" alt="596538501-f1ad5d80-7c48-4c4e-ba8d-31cd44dfa5b5" src="https://github.com/user-attachments/assets/a975fa05-1bfb-4dd0-8d28-4feafa21e214" />
+
+
+
+
+### Result: 
+Thus, Implementation of Information Retrieval Using Boolean Model in Python is successfully completed.
